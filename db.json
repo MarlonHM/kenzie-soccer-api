@@ -40,72 +40,68 @@
   ],
   "teams": [
     {
-      "countries": [
-        {
-          "id": 1,
-          "nameCountry": "Brasil"
-        },
-        {
-          "id": 2,
-          "nameCountry": "Catar"
-        },
-        {
-          "id": 3,
-          "nameCountry": "Camarões"
-        },
-        {
-          "id": 4,
-          "nameCountry": "Suiça"
-        },
-        {
-          "id": 5,
-          "nameCountry": "Equador"
-        },
-        {
-          "id": 6,
-          "nameCountry": "Senegal"
-        },
-        {
-          "id": 7,
-          "nameCountry": "Belgica"
-        },
-        {
-          "id": 8,
-          "nameCountry": "Polonia"
-        },
-        {
-          "id": 9,
-          "nameCountry": "Inglaterra"
-        },
-        {
-          "id": 10,
-          "nameCountry": "Holanda"
-        },
-        {
-          "id": 11,
-          "nameCountry": "Portugal"
-        },
-        {
-          "id": 12,
-          "nameCountry": "Estados Unidos"
-        },
-        {
-          "id": 13,
-          "nameCountry": "Argentina"
-        },
-        {
-          "id": 14,
-          "nameCountry": "México"
-        },
-        {
-          "id": 15,
-          "nameCountry": "França"
-        },
-        {
-          "id": 16,
-          "nameCountry": "Dinamarca"
-        }
-      ]
+      "id": 1,
+      "nameCountry": "Brasil"
+    },
+    {
+      "id": 2,
+      "nameCountry": "Catar"
+    },
+    {
+      "id": 3,
+      "nameCountry": "Camarões"
+    },
+    {
+      "id": 4,
+      "nameCountry": "Suiça"
+    },
+    {
+      "id": 5,
+      "nameCountry": "Equador"
+    },
+    {
+      "id": 6,
+      "nameCountry": "Senegal"
+    },
+    {
+      "id": 7,
+      "nameCountry": "Belgica"
+    },
+    {
+      "id": 8,
+      "nameCountry": "Polonia"
+    },
+    {
+      "id": 9,
+      "nameCountry": "Inglaterra"
+    },
+    {
+      "id": 10,
+      "nameCountry": "Holanda"
+    },
+    {
+      "id": 11,
+      "nameCountry": "Portugal"
+    },
+    {
+      "id": 12,
+      "nameCountry": "Estados Unidos"
+    },
+    {
+      "id": 13,
+      "nameCountry": "Argentina"
+    },
+    {
+      "id": 14,
+      "nameCountry": "México"
+    },
+    {
+      "id": 15,
+      "nameCountry": "França"
+    },
+    {
+      "id": 16,
+      "nameCountry": "Dinamarca"
     }
   ],
   "matches": [
