@@ -14,8 +14,7 @@
       "id": 2,
       "groups": [1, 2, 5],
       "totalScore": 0,
-      "totalPhase": 0,
-      "matchHistoryScore": [1, 2, 3]
+      "totalPhase": 0
     }
   ],
   "groups": [
@@ -106,242 +105,252 @@
   ],
   "matches": [
     {
-      "group_Phase": [
-        {
-          "id": 1,
-          "team_home": 1,
-          "team_away": 2,
-          "time": "15:00",
-          "day": "2022/12/18",
-          "result": 1,
-          "completed": false,
-          "group_letter": "A"
-        },
-        {
-          "id": 2,
-          "team_home": 3,
-          "team_away": 4,
-          "time": "17:00",
-          "day": "2022/12/18",
-          "result": 0,
-          "completed": false,
-          "group_letter": "A"
-        },
-        {
-          "id": 3,
-          "team_home": 5,
-          "team_away": 6,
-          "time": "17:00",
-          "day": "2022/12/19",
-          "result": 6,
-          "completed": false,
-          "group_letter": "B"
-        },
-        {
-          "id": 4,
-          "team_home": 7,
-          "team_away": 8,
-          "time": "19:00",
-          "day": "2022/12/19",
-          "result": 8,
-          "completed": false,
-          "group_letter": "B"
-        },
-        {
-          "id": 5,
-          "team_home": 9,
-          "team_away": 10,
-          "time": "16:00",
-          "day": "2022/12/20",
-          "result": 0,
-          "completed": false,
-          "group_letter": "C"
-        },
-        {
-          "id": 6,
-          "team_home": 11,
-          "team_away": 12,
-          "time": "18:00",
-          "day": "2022/12/20",
-          "result": 11,
-          "completed": false,
-          "group_letter": "C"
-        },
-        {
-          "id": 7,
-          "team_home": 13,
-          "team_away": 14,
-          "time": "16:00",
-          "day": "2022/12/21",
-          "result": 14,
-          "completed": false,
-          "group_letter": "D"
-        },
-        {
-          "id": 8,
-          "team_home": 15,
-          "team_away": 16,
-          "time": "18:00",
-          "day": "2022/12/21",
-          "result": 15,
-          "completed": false,
-          "group_letter": "D"
-        }
-      ],
-      "round_of_16": [
-        {
-          "id": 9,
-          "team_home": 1,
-          "team_away": 3,
-          "time": "15:00",
-          "day": "2022/12/23",
-          "result": 1,
-          "completed": false
-        },
-        {
-          "id": 10,
-          "team_home": 2,
-          "team_away": 4,
-          "time": "17:00",
-          "day": "2022/12/23",
-          "result": 0,
-          "completed": false
-        },
-        {
-          "id": 11,
-          "team_home": 5,
-          "team_away": 7,
-          "time": "12:00",
-          "day": "2022/12/24",
-          "result": 7,
-          "completed": false
-        },
-        {
-          "id": 12,
-          "team_home": 6,
-          "team_away": 8,
-          "time": "15:00",
-          "day": "2022/12/24",
-          "result": 8,
-          "completed": false
-        },
-        {
-          "id": 13,
-          "team_home": 9,
-          "team_away": 11,
-          "time": "16:00",
-          "day": "2022/12/25",
-          "result": 0,
-          "completed": false
-        },
-        {
-          "id": 14,
-          "team_home": 10,
-          "team_away": 12,
-          "time": "18:00",
-          "day": "2022/12/25",
-          "result": 10,
-          "completed": false
-        },
-        {
-          "id": 15,
-          "team_home": 13,
-          "team_away": 15,
-          "time": "16:00",
-          "day": "2022/12/26",
-          "result": 15,
-          "completed": false
-        },
-        {
-          "id": 16,
-          "team_home": 14,
-          "team_away": 16,
-          "time": "18:00",
-          "day": "2022/12/26",
-          "result": 0,
-          "completed": false
-        }
-      ],
-      "quarterfinals": [
-        {
-          "id": 17,
-          "team_home": 1,
-          "team_away": 6,
-          "time": "16:00",
-          "day": "2022/12/27",
-          "result": 1,
-          "completed": false
-        },
-        {
-          "id": 18,
-          "team_home": 11,
-          "team_away": 16,
-          "time": "18:00",
-          "day": "2022/12/27",
-          "result": 16,
-          "completed": false
-        },
-        {
-          "id": 19,
-          "team_home": 5,
-          "team_away": 15,
-          "time": "20:00",
-          "day": "2022/12/27",
-          "result": 15,
-          "completed": false
-        },
-        {
-          "id": 20,
-          "team_home": 14,
-          "team_away": 7,
-          "time": "22:00",
-          "day": "2022/12/27",
-          "result": 0,
-          "completed": false
-        }
-      ],
-      "semi": [
-        {
-          "id": 21,
-          "team_home": 1,
-          "team_away": 16,
-          "time": "12:00",
-          "day": "2022/12/28",
-          "result": 1,
-          "completed": false
-        },
-        {
-          "id": 22,
-          "team_home": 15,
-          "team_away": 7,
-          "time": "15:00",
-          "day": "2022/12/28",
-          "result": 15,
-          "completed": false
-        }
-      ],
-      "third_Place": [
-        {
-          "id": 23,
-          "team_home": 16,
-          "team_away": 7,
-          "time": "12:00",
-          "day": "2022/12/29",
-          "result": 16,
-          "completed": false
-        }
-      ],
-      "final": [
-        {
-          "id": 24,
-          "team_home": 1,
-          "team_away": 15,
-          "time": "15:00",
-          "day": "2022/12/29",
-          "result": 1,
-          "completed": false
-        }
-      ]
+      "id": 1,
+      "team_home": 1,
+      "team_away": 2,
+      "time": "15:00",
+      "day": "2022/12/18",
+      "result": 1,
+      "completed": false,
+      "group_letter": "A",
+      "phase": "group"
+    },
+    {
+      "id": 2,
+      "team_home": 3,
+      "team_away": 4,
+      "time": "17:00",
+      "day": "2022/12/18",
+      "result": 0,
+      "completed": false,
+      "group_letter": "A",
+      "phase": "group"
+    },
+    {
+      "id": 3,
+      "team_home": 5,
+      "team_away": 6,
+      "time": "17:00",
+      "day": "2022/12/19",
+      "result": 6,
+      "completed": false,
+      "group_letter": "B",
+      "phase": "group"
+    },
+    {
+      "id": 4,
+      "team_home": 7,
+      "team_away": 8,
+      "time": "19:00",
+      "day": "2022/12/19",
+      "result": 8,
+      "completed": false,
+      "group_letter": "B",
+      "phase": "group"
+    },
+    {
+      "id": 5,
+      "team_home": 9,
+      "team_away": 10,
+      "time": "16:00",
+      "day": "2022/12/20",
+      "result": 0,
+      "completed": false,
+      "group_letter": "C",
+      "phase": "group"
+    },
+    {
+      "id": 6,
+      "team_home": 11,
+      "team_away": 12,
+      "time": "18:00",
+      "day": "2022/12/20",
+      "result": 11,
+      "completed": false,
+      "group_letter": "C",
+      "phase": "group"
+    },
+    {
+      "id": 7,
+      "team_home": 13,
+      "team_away": 14,
+      "time": "16:00",
+      "day": "2022/12/21",
+      "result": 14,
+      "completed": false,
+      "group_letter": "D",
+      "phase": "group"
+    },
+    {
+      "id": 8,
+      "team_home": 15,
+      "team_away": 16,
+      "time": "18:00",
+      "day": "2022/12/21",
+      "result": 15,
+      "completed": false,
+      "group_letter": "D",
+      "phase": "group"
+    },
+    {
+      "id": 9,
+      "team_home": 1,
+      "team_away": 3,
+      "time": "15:00",
+      "day": "2022/12/23",
+      "result": 1,
+      "completed": false,
+      "phase": "round16"
+    },
+    {
+      "id": 10,
+      "team_home": 2,
+      "team_away": 4,
+      "time": "17:00",
+      "day": "2022/12/23",
+      "result": 0,
+      "completed": false,
+      "phase": "round16"
+    },
+    {
+      "id": 11,
+      "team_home": 5,
+      "team_away": 7,
+      "time": "12:00",
+      "day": "2022/12/24",
+      "result": 7,
+      "completed": false,
+      "phase": "round16"
+    },
+    {
+      "id": 12,
+      "team_home": 6,
+      "team_away": 8,
+      "time": "15:00",
+      "day": "2022/12/24",
+      "result": 8,
+      "completed": false,
+      "phase": "round16"
+    },
+    {
+      "id": 13,
+      "team_home": 9,
+      "team_away": 11,
+      "time": "16:00",
+      "day": "2022/12/25",
+      "result": 0,
+      "completed": false,
+      "phase": "round16"
+    },
+    {
+      "id": 14,
+      "team_home": 10,
+      "team_away": 12,
+      "time": "18:00",
+      "day": "2022/12/25",
+      "result": 10,
+      "completed": false,
+      "phase": "round16"
+    },
+    {
+      "id": 15,
+      "team_home": 13,
+      "team_away": 15,
+      "time": "16:00",
+      "day": "2022/12/26",
+      "result": 15,
+      "completed": false,
+      "phase": "round16"
+    },
+    {
+      "id": 16,
+      "team_home": 14,
+      "team_away": 16,
+      "time": "18:00",
+      "day": "2022/12/26",
+      "result": 0,
+      "completed": false,
+      "phase": "round16"
+    },
+    {
+      "id": 17,
+      "team_home": 1,
+      "team_away": 6,
+      "time": "16:00",
+      "day": "2022/12/27",
+      "result": 1,
+      "completed": false,
+      "phase": "quarterFinal"
+    },
+    {
+      "id": 18,
+      "team_home": 11,
+      "team_away": 16,
+      "time": "18:00",
+      "day": "2022/12/27",
+      "result": 16,
+      "completed": false,
+      "phase": "quarterFinal"
+    },
+    {
+      "id": 19,
+      "team_home": 5,
+      "team_away": 15,
+      "time": "20:00",
+      "day": "2022/12/27",
+      "result": 15,
+      "completed": false,
+      "phase": "quarterFinal"
+    },
+    {
+      "id": 20,
+      "team_home": 14,
+      "team_away": 7,
+      "time": "22:00",
+      "day": "2022/12/27",
+      "result": 0,
+      "completed": false,
+      "phase": "quarterFinal"
+    },
+    {
+      "id": 21,
+      "team_home": 1,
+      "team_away": 16,
+      "time": "12:00",
+      "day": "2022/12/28",
+      "result": 1,
+      "completed": false,
+      "phase": "semi"
+    },
+    {
+      "id": 22,
+      "team_home": 15,
+      "team_away": 7,
+      "time": "15:00",
+      "day": "2022/12/28",
+      "result": 15,
+      "completed": false,
+      "phase": "semi"
+    },
+    {
+      "id": 23,
+      "team_home": 16,
+      "team_away": 7,
+      "time": "12:00",
+      "day": "2022/12/29",
+      "result": 16,
+      "completed": false,
+      "phase": "third_Place"
+    },
+    {
+      "id": 24,
+      "team_home": 1,
+      "team_away": 15,
+      "time": "15:00",
+      "day": "2022/12/29",
+      "result": 1,
+      "completed": false,
+      "phase": "final"
     }
   ],
   "guess": [
