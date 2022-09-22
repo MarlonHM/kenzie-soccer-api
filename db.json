@@ -12,7 +12,7 @@
       "password": "$2a$10$m3c3aLz7UTOTsJyFDiCM9eYDaOnrx3PBPDogyqfY7dyx5zfvPeYNu",
       "name": "Kenzie Soccer",
       "id": 2,
-      "groups": [1, 2, 5],
+      "groups": [1, 2],
       "totalScore": 0,
       "totalPhase": 0
     }
@@ -22,18 +22,12 @@
       "id": 1,
       "userId": 2,
       "groupName": "teste",
-      "private": true,
-      "passwordGroup": "1234",
-      "totalUsers": 3,
-      "ranking": [2, 3, 4]
+      "ranking": [2]
     },
     {
       "userId": 2,
       "groupName": "teste2",
-      "private": true,
-      "passwordGroup": "1234",
-      "totalUsers": 3,
-      "ranking": [2, 3, 4],
+      "ranking": [2],
       "id": 2
     }
   ],
